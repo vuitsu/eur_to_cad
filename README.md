@@ -3,7 +3,8 @@ A tkinter application that allows you to convert EUR to CAD.
 
 ## Important
 Before running the project, you must get YOUR API key at [this page](https://www.exchangerate-api.com/).
-You need to install this :
+
+Also, you need to install this :
 
     - Tkinter
     - Requests
