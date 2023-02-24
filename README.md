@@ -11,7 +11,6 @@
 
 <p align="center">
   <a href="#api-key">API Key</a> •
-  <a href="#download">Download</a> •
   <a href="#how-to-use">How To Use</a> •
 </p>
 
@@ -20,10 +19,6 @@
 ## API Key
 
 * You must get YOUR API key at [this page] (https://www.exchangerate-api.com/).
-
-## Download
-
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
 
 ## How To Use
 
