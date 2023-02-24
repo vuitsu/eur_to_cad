@@ -29,7 +29,7 @@ To clone and run this application, you'll need to [git clone](https://git-scm.co
 $ git clone https://github.com/vuitsu/eur_to_cad
 
 # Go into the repository
-$ cd electron-markdownify
+$ cd eur_to_cad
 
 # Install dependencies
 $ pip install tk
