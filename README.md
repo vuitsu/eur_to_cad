@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="#api-key">API Key</a> •
-  <a href="#how-to-use">How To Use</a> •
+  <a href="#how-to-use">How To Use</a>
 </p>
 
 ![screenshot](https://cdn.discordapp.com/attachments/1068938283486302253/1078733201603829770/image.png)
